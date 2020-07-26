@@ -1,0 +1,66 @@
+.right {
+    position: relative;
+    background-color: white;
+    border: 1px solid #F1F1F1;
+}
+
+.btnBefore,
+.btnAfter {
+    margin-right: 5px;
+    padding: 5px 8px;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    background-color: crimson;
+}
+
+.image {
+    width: 100%;
+}
+
+.intro {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 15px;
+    color: white;
+    background-color: rgba(60, 60, 60, 0.9);
+    width: 100%;
+}
+
+.intro p span:first-child {
+    background-color: crimson;
+    margin-right: 7px;
+    padding: 4px 6px;
+    border-radius: 4px;
+}
+
+.intro p span:last-child {
+    color: green;
+    font-size: 15px;
+}
+
+.imageGlasses {
+    position: absolute;
+    top: 37%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 230px;
+    opacity: 0.8;
+    animation: animationChangeGlasses 5s;
+}
+
+@keyframes animationChangeGlasses {
+    from {
+        width: 0px;
+        top: 0;
+        opacity: 0;
+    }
+    to {
+        top: 37%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 230px;
+        opacity: 0.8;
+    }
+}
