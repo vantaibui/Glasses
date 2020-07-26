@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Glasses/static/css/main.d10cc240.chunk.css",
+    "main.js": "/Glasses/static/js/main.b131b71a.chunk.js",
+    "main.js.map": "/Glasses/static/js/main.b131b71a.chunk.js.map",
+    "runtime-main.js": "/Glasses/static/js/runtime-main.fe7d87b3.js",
+    "runtime-main.js.map": "/Glasses/static/js/runtime-main.fe7d87b3.js.map",
+    "static/js/2.e0d52132.chunk.js": "/Glasses/static/js/2.e0d52132.chunk.js",
+    "static/js/2.e0d52132.chunk.js.map": "/Glasses/static/js/2.e0d52132.chunk.js.map",
+    "index.html": "/Glasses/index.html",
+    "precache-manifest.bcba79cc9a84c6d9ebd3fb3640158be4.js": "/Glasses/precache-manifest.bcba79cc9a84c6d9ebd3fb3640158be4.js",
+    "service-worker.js": "/Glasses/service-worker.js",
+    "static/css/main.d10cc240.chunk.css.map": "/Glasses/static/css/main.d10cc240.chunk.css.map",
+    "static/js/2.e0d52132.chunk.js.LICENSE.txt": "/Glasses/static/js/2.e0d52132.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Glasses/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe7d87b3.js",
+    "static/js/2.e0d52132.chunk.js",
+    "static/css/main.d10cc240.chunk.css",
+    "static/js/main.b131b71a.chunk.js"
+  ]
+}
